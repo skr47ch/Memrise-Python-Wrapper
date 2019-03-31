@@ -1,0 +1,5 @@
+LOGIN_URL = 'https://www.memrise.com/login/'
+COURSES_URL = 'https://www.memrise.com/ajax/courses/dashboard/?courses_filter=most_recent&offset=0&limit=4&get_review_count=false'
+PERIOD_URL = 'https://www.memrise.com/ajax/leaderboard/mempals/?period=week&how_many=5'
+USER_URL = 'https://www.memrise.com/api/user/get/?user_id=1914741'
+STREAK_GRAPH_URL = 'http://www.memrise.com/ajax/metrics/learning_streak_graph/'
